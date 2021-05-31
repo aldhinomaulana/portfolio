@@ -21,6 +21,7 @@
 }
 hr{
     width: 250px;
+    margin-top: -5px;
     border-top: 3px solid #999;
 }
 
@@ -35,4 +36,8 @@ hr{
 }
 .portfolio{
     background-color: #eee;
+    min-height: 300px;
+}
+ .row{
+    font-family: 'Mate SC', serif;
 }
