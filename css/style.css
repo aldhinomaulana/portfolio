@@ -17,7 +17,7 @@
 }
 
 .about{
-    min-height: 300px;
+    min-height: 450px;
 }
 hr{
     width: 250px;
@@ -36,7 +36,9 @@ hr{
 }
 .portfolio{
     background-color: #eee;
-    min-height: 300px;
+}
+.contact{
+    min-height: 500px;
 }
  .row{
     font-family: 'Mate SC', serif;
