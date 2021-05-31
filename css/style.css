@@ -3,6 +3,15 @@
   border: 3px solid #666;
 }
 
+.jumbotron ul li{
+  display: inline-block;
+}
+
+.jumbotron ul li a{
+    color: #666;
+    font-size: 20px;
+    text-decoration: none;
+}
 .jumbotron h1{
     font-family: 'Limelight', cursive;
 }
@@ -20,6 +29,10 @@ hr{
     font-size: 25px;
 }
 
+.row img{
+    width: 400px;
+    height: 200px;
+}
 .portfolio{
     background-color: #eee;
 }
